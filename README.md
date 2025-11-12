@@ -35,6 +35,7 @@ npm run dev
 Sau khi hoàn thành các bước này, tất cả các thành viên trong nhóm sẽ có một môi trường làm việc giống hệt nhau, sẵn sàng để bắt đầu thêm chức năng vào dự án JavaFlorist.Api và frontend.
 
 LUU Y: moi lần bắt đầu code thi mọi người phải chạy lệnh pull code truoc khi code nhé. moi nguoi se lam nhu sau:
-ví dụ đang mở folder backend đê code thi trong terminal cua visual studio chung ta bấm cd .. để lùi 1 cấp thư mục, sau đó chạy lệnh:
+ví dụ đang mở folder backend đê code thi trong terminal cua visual studio chung ta bấm cd .. để lùi 1 cấp thư mục, lùi đến tên cua repo chúng ta clone về từ github.
+sau đó chạy lệnh:
 git pull
 lệnh này sẽ cập nhật code mới về dự án của mình, việc này phải làm thường xuyên mỗi khi code nhé
