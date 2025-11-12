@@ -4,13 +4,12 @@ Mỗi thành viên trong nhóm cần thực hiện 3 bước chính: Clone, Thi�
 
 Bước 1: Clone Repository
 
-Các thành viên cần phải có quyền truy cập vào repository java-florist của bạn (nếu là repository riêng tư, bạn phải thêm họ làm cộng tác viên).
-
-Lấy URL Clone: Yêu cầu các thành viên truy cập vào repo java-florist trên GitHub, sau đó click vào nút < > Code và sao chép URL HTTPS hoặc SSH URL.
+Lấy URL Clone: các thành viên truy cập vào repo java-florist trên GitHub, sau đó click vào nút < > Code và sao chép URL HTTPS hoặc SSH URL.
 
 Clone về máy: Mở Terminal (hoặc Git Bash) trên máy của họ, điều hướng đến thư mục mà họ muốn lưu trữ dự án (ví dụ: thư mục Projects), và chạy lệnh sau (thay thế URL bằng URL thực tế):
 
-git clone linkCopy
+git clone linkCopyTrongMucCode
+
 Bước 2: Thiết lập Backend (ASP.NET Core Web API):
 
 Mục tiêu là khôi phục các gói NuGet (dependencies) cần thiết cho dự án .NET.
@@ -34,3 +33,5 @@ Kiểm tra Frontend (Tùy chọn): Thành viên có thể kiểm tra xem fronten
 npm run dev
 
 Sau khi hoàn thành các bước này, tất cả các thành viên trong nhóm sẽ có một môi trường làm việc giống hệt nhau, sẵn sàng để bắt đầu thêm chức năng vào dự án JavaFlorist.Api và frontend.
+
+LUU Y: moi lần bắt đầu code thi mọi người phải chạy lệnh pull code truoc khi code nhé
