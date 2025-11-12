@@ -38,4 +38,4 @@ LUU Y: moi lần bắt đầu code thi mọi người phải chạy lệnh pull 
 ví dụ đang mở folder backend đê code thi trong terminal cua visual studio chung ta bấm cd .. để lùi 1 cấp thư mục, lùi đến tên cua repo chúng ta clone về từ github.
 sau đó chạy lệnh:
 git pull
-lệnh này sẽ cập nhật code mới về dự án của mình, việc này phải làm thường xuyên mỗi khi code nhé
+lệnh này sẽ cập nhật code mới về dự án của mình, việc này phải làm thường xuyên mỗi khi code nhé. thay doi lan 1
