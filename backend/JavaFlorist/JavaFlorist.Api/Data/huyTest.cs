@@ -1,7 +1,7 @@
 ﻿
 namespace JavaFlorist.Api.Data
 {
-    public class Vidu
+    public class huyTest
     {
         public int a = 10;
         public int ham1212121() {
